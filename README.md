@@ -16,7 +16,3 @@ Fix:
   - Used clamp() for font sizes and flexible layout scaling to better handle different screen sizes
 
 Status:The dashboard layout has been refined for a smooth and adaptive user experience — and it's all done! 🙌
-# RoboTilapia
-# RoboTilapia-App
-# RoboTilapia-App
-# RoboTilapia
